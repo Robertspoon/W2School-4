@@ -10,6 +10,8 @@ namespace W2School_4
     {
         static void Main(string[] args)
         {
+            //Loops
+
             // int i = 0;
             // do
             // {
