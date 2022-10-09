@@ -37,7 +37,8 @@ namespace W2School_4
 
             //string[] peopleIDontReallyLike = { "You", "Myself", "Simon Cowell" };
            // foreach (string i in peopleIDontReallyLike)
-               // Console.WriteLine("People I dont really like: " + i);
+               // Console.WriteLine("People I dont really like: ");
+               // Console.WriteLine(i);
 
           Console.ReadKey(true);  
 
